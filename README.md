@@ -5,5 +5,5 @@
 <p>Trabalhando na CondLink}<br/> Eu sou desenvolvedor Front-End</p>
 
 <p align="left">
-  Linguagens: Reat-JS,Typescript,Tailwind Css
+  Linguagens: React-JS, Typescript, Tailwind Css
 </p>
