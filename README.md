@@ -2,7 +2,7 @@
 
 ### Olá, meu nome é Vitor Gabriel!
 
-<p>Trabalhando na CondLink}<br/> Eu sou desenvolvedor Front-End</p>
+<p>Trabalhando na CondLink<br/> Eu sou desenvolvedor Front-End</p>
 
 <p align="left">
   Linguagens: React-JS, Typescript, Tailwind Css
