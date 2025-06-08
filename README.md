@@ -2,7 +2,7 @@
 
 ### Olá, meu nome é Vitor Gabriel!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Vittas&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+[![card](https://github-readme-stats.vercel.app/api?username=Vittas&theme=default)](https://github.com/Vittas/github-readme-stats)
 
 <p>Trabalhando na CondLink}<br/> Eu sou desenvolvedor Front-End</p>
 
