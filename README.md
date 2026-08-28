@@ -2,7 +2,7 @@
 
 ### Olá, meu nome é Vitor Gabriel!
 
-<p>Trabalhando na CondLink<br/> Eu sou desenvolvedor Front-End</p>
+<p>Trabalhando na CondLink<br/> Eu sou desenvolvedor Front-End<br/> Fundador e Desenvolvedor do Tripfy✈️</p>
 
 <p align="left">
   <strong>Linguagens e Tecnologias:</strong><br>
