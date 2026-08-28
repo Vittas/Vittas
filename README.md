@@ -2,11 +2,12 @@
 
 ### Olá, meu nome é Vitor Gabriel!
 
-<p>Trabalhando na CondLink<br/> Eu sou desenvolvedor Front-End<br/> Fundador e Desenvolvedor do Tripfy✈️</p>
+<p>Fundador e Desenvolvedor do Tripfy✈️<br/> Trabalhando na CondLink<br/> Eu sou desenvolvedor Front-End Web e Mobile </p>
 
 <p align="left">
   <strong>Linguagens e Tecnologias:</strong><br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
